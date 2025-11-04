@@ -1,0 +1,11 @@
+ID Kasus,Gejala Utama,Tahap Pertumbuhan,Cuaca,Jenis Penyakit,Solusi
+001,Bercak cokelat pada daun,Fase Vegetatif,Hujan,Blas,Gunakan fungisida triazol 1 ml/L
+002,Daun kuning dan kering,Fase Reproduktif,Lembap,Hawar Daun Bakteri,Semprot bakterisida streptomisin
+003,Daun belang hijau dan kuning,Fase Awal,Panas,Tungro,Semprot insektisida untuk membasmi wereng hijau
+004,Daun cokelat tua,Fase Vegetatif,Lembab,Hawar Daun Jamur,Gunakan fungisida mankozeb
+005,Bercak abu-abu pada daun,Fase Reproduktif,Hujan,Blas,Gunakan fungisida isoprotiolan
+006,Daun menggulung,Fase Awal,Panas,Wereng Coklat,Semprot insektisida buprofezin atau imidakloprid
+007,Akar busuk,Fase Vegetatif,Hujan,Busuk Akar,Perbaiki drainase dan tambahkan pupuk organik
+008,Daun belang dan rusak,Fase Reproduktif,Panas,Virus Kerdil,Semprot insektisida tiametoksam
+009,Daun menguning seluruhnya,Fase Vegetatif,Lembap,Busuk Batang,"Perbaiki irigasi, tambahkan kapur pertanian"
+010,Bercak hijau keunguan,Fase Reproduktif,Lembap,Hawar Pelepah,Gunakan fungisida azoksistrobin
