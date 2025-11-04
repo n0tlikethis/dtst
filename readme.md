@@ -4,3 +4,4 @@
 | Data Buku Perpustakaan.csv | midterm exam |
 | Stok Buku Penerbit.csv | midterm exam |
 | Usulan Buku.csv | midterm exam |
+| Diagnosa Penyakit Tanaman Padi.csv | case study |
