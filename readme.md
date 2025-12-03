@@ -5,3 +5,4 @@
 | Stok Buku Penerbit.csv | midterm exam |
 | Usulan Buku.csv | midterm exam |
 | Diagnosa Penyakit Tanaman Padi.csv | case study |
+| laptop_price.csv | [kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price) |
